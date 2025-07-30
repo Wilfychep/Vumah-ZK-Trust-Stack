@@ -6,6 +6,11 @@ Vumah ZK Trust Stack is an open-source, modular SDK that enables developers and 
 
 Built by [Vumah Labs](https://vumahlabs.netlify.app), this project aims to strengthen public trust infrastructure across Africa using Bitcoin’s immutability and ZK-powered privacy.
 
+## 🚀 We’re Building for Africa
+
+This SDK is a work-in-progress to empower African institutions with privacy-first trust tools built on Bitcoin and ZK.  
+🔐 Want to support our work? [Sponsor us on GitHub](https://github.com/sponsors/Wilfychep)
+
 ---
 
 ## 🌍 Use Cases
