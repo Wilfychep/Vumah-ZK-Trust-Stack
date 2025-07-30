@@ -70,3 +70,5 @@ Open an issue or improvement idea
 
 Join our upcoming developer pilot
 
+Find us in the Press 
+https://disruptafrica.com/2025/07/14/kenyas-vumah-labs-joins-fastercapital-launchup-programme/
